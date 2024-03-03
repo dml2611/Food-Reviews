@@ -27,7 +27,7 @@ for index, row in df.iterrows():
     r.extract_keywords_from_text(abstract)
     
     # Get the keywords and print them
-    keywords = r.get_ranked_phrases_with_scores()[:30]
+    keywords = r.get_ranked_phrases_with_scores()
     
     # Store keyword-score pairs in the dictionary
     for score, keyword in keywords:
@@ -50,7 +50,7 @@ for index, row in df.iterrows():
         if num_sentences == 10:  
             break
     
-    # # error msg for checking if there are a tota of 10 sentences generated
+    # # error msg for checking if there are a total of 10 sentences generated
     # if num_sentences < 10:
     #     raise ValueError(f"Summary for row {index + 1} has only {num_sentences} sentences. It should have 10 sentences.")
 
