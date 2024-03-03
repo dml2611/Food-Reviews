@@ -47,7 +47,7 @@ for index, row in df.iterrows():
     r.extract_keywords_from_text(abstract)
     
     # Get the keywords and print them
-    keywords = r.get_ranked_phrases_with_scores()[:30]
+    keywords = r.get_ranked_phrases_with_scores()
     
     # Store keyword-score pairs in the dictionary
     for score, keyword in keywords:
