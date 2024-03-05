@@ -36,6 +36,7 @@ keyword_score_abs = {}
 keyword_score_gpt = {}
 
 # create a list to store summary of each row in column
+summary = []
 summary_abs = []
 summary_gpt = []
 
@@ -44,6 +45,7 @@ row_summary_abs = []
 row_summary_gpt = []
 
 # Create a list to store the scores of sentences
+sentence_scores = []
 sentence_scores_abs = []
 sentence_scores_gpt = []
 
