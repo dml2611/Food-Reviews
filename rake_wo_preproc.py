@@ -27,7 +27,7 @@ for index, row in df.iterrows():
     r.extract_keywords_from_text(abstract)
     
     # Get the keywords and print them
-    keywords = r.get_ranked_phrases_with_scores()
+    keywords = r.get_ranked_phrases_with_scores()[:30]
     
     # Store keyword-score pairs in the dictionary
     for score, keyword in keywords:
@@ -50,15 +50,29 @@ for index, row in df.iterrows():
         if num_sentences == 10:  
             break
     
-    # # error msg for checking if there are a total of 10 sentences generated
+    # # error msg for checking if there are a tota of 10 sentences generated
     # if num_sentences < 10:
     #     raise ValueError(f"Summary for row {index + 1} has only {num_sentences} sentences. It should have 10 sentences.")
 
     summary.append(row_summary)
 
-# Print the summary for each row
-for index, row in enumerate(summary):
-    print(f"Summary for row {index + 1}:")
-    for i, sentence in enumerate(row):
-        print(f"{i + 1}: {sentence}")
-    print()
+    import sys
+
+    rake_wo_preproc = sys.stdout
+    with open('outputRake3WOPreproc.txt', 'w') as f:
+        sys.stdout = f
+
+    # Print the summary for each row
+        for index, row in enumerate(summary):
+            print(f"Summary for row {index + 1}:")
+            for i, sentence in enumerate(row):
+                # Search for the corresponding keyword score for the current sentence
+                sentence_score = 0
+                for keyword, score in keyword_score.items():
+                    if keyword in sentence:
+                        sentence_score += score
+                # Print the sentence along with its score
+                print(f"{i + 1}: {sentence} (Score: {sentence_score})")
+            print()
+        
+        sys.stdout = rake_wo_preproc
