@@ -1,0 +1,650 @@
+Summary for row 1:
+Sentence 1: '' st james restaurant: fine modern british dining picturesque bushey born bred london, moved parents around five years old bushey hertfordshire. Sentence Score: 166.57222222222222
+Sentence 2: pretty little village, great connections central london also schooled. Sentence Score: 52.6
+Sentence 3: fast forward 12 years then, moved back pinner, london second property, ever since. Sentence Score: 65.51666666666667
+Sentence 4: came surprise got email inviting dine st james restaurant bushey, walking past ever since opened 1997 school uniform. Sentence Score: 173.38888888888886
+Sentence 5: alfonso la cava opened st james restaurant bushey village 1997 since 2019, nephew giammarco angelilli taken kitchens. Sentence Score: 139.05555555555554
+Sentence 6: giammarco worked city became head chef friends restaurant pinner (i also dined couple times past) 1 rosettes award. Sentence Score: 119.88888888888889
+Sentence 7: 2014 moved new york 6 months moved chicago new project. Sentence Score: 95.5
+Sentence 8: 2015 came back london march 2016 opened osteria modigliani pinner sold 2018. st james feels like exciting place dine right kicked tasting menu amuse-bouche mushroom soup truffle foam inviting warming – perfect start lunch. Sentence Score: 366.76666666666665
+Sentence 9: restaurant offers lighter lunch menu day, la carte menu dinner, sunday roasts, afternoon tea, delicious cocktails bottomless brunches – choices endless there’s something everyone. Sentence Score: 131.55555555555554
+Sentence 10: tasting menu comprised six courses priced £45 thought steal (plus there’s slightly toned-down version £35) london quality – you’d paying double more. Sentence Score: 30.26666666666667
+
+Summary for row 2:
+Sentence 1: '' let’s chaat: 12 amazing indian chaat recipes indian cuisine well-renowned vibrant flavors varied dishes, one beloved street food stands out: chaat. Sentence Score: 1341.111111111111
+Sentence 2: quintessential part indian culinary culture, chaat offers ideal balance sweet, spicy, tangy, savory tastes appeals locals tourists alike. Sentence Score: 157.83333333333331
+Sentence 3: chaat stalls found across delhi mumbai bazaars offering delectable treats transport visitors right back india’s bustling streets. Sentence Score: 121.16666666666666
+Sentence 4: present 12 incredible indian chaat recipes transport taste buds back bustling streets every indian city. Sentence Score: 35.66666666666667
+Sentence 5: sev puri: sev puri delicious variation puri-based chaat, flat puris filled mashed potatoes, chutneys sev. Sentence Score: 197.16666666666666
+Sentence 6: blend crispiness tartness, sev puri makes irresistibly satisfying bite. Sentence Score: 112.97564102564102
+Sentence 7: sev puri recipe also super easy make makes one favorite chaat every indian. Sentence Score: 66.41391941391942
+Sentence 8: pani puri: also referred golgappa puchka, pani puri classic indian street food snack consisting crunchy puris (hollow fried dough balls) filled spicy-tangy tamarind water, mashed potatoes, chickpeas various spices explosion flavors textures every bite. Sentence Score: 147.46153846153845
+Sentence 9: you’ll leave craving tasting mouth-watering delight. Sentence Score: 253.3758241758242
+Sentence 10: every indian city india different taste style making pani puri. Sentence Score: 31.0
+
+Summary for row 3:
+Sentence 1: ''the crossing: delicious pub heart picturesque barnes need come straight – crossing barnes absolutely fabulous. Sentence Score: 124.04487179487178
+Sentence 2: i’ve popped really enjoyed time, latest chef seems elevated cooking here, making extremely delightful, italian-influenced menu. Sentence Score: 1247.1051282051283
+Sentence 3: nestled away quiet back streets barnes, pub surely serving best food area right now. Sentence Score: 163.46666666666667
+Sentence 4: independently owned, crossing true neighborhood pub gorgeous interiors, sun-drenched garden terrace, superb staff. Sentence Score: 82.89999999999999
+Sentence 5: still feels like pub locals enjoying pint three, also feels like proper restaurant, serving grownup food, cocktails, solid wine list. Sentence Score: 110.68333333333334
+Sentence 6: whilst perused menu, tucked couple delicious punchy cocktails. Sentence Score: 73.6
+Sentence 7: led head chef riccardo rizzo, menu definitely nod italy, good old classics warm cockles whilst utilising best seasonal ingredients. Sentence Score: 121.93333333333334
+Sentence 8: kick meal tucked starters. Sentence Score: 45.333333333333336
+Sentence 9: really couldn’t pick one favourite, must order cauliflower croquettes like eating fluffy, warm, delicious clouds goodness cauliflower cheese style filling. Sentence Score: 151.66666666666666
+Sentence 10: charcuterie board good, even toasted sourdough joy. Sentence Score: 16.5
+
+Summary for row 4:
+Sentence 1: ''kanishka restaurant review: modern taste india mayfair located maddox street london neighboring capital’s best designer shops, hotels restaurants, kanishka aims offer modern, pan-indian cuisine showcases regional variety indian food. Sentence Score: 149.55
+Sentence 2: kanishka coming one uk’s celebrated chefs, atul kochhar – expectations rather high. Sentence Score: 31.333333333333336
+Sentence 3: left benares mayfair back 2018, seems atul built quite empire since i’m glad always brings excitement modern flare menus. Sentence Score: 946.9666666666666
+Sentence 4: arrive street, you’re greeted large, beautiful antique-looking wooden doors, step inside you’re transported uber-modern setting like something latest design book. Sentence Score: 91.66666666666666
+Sentence 5: striking twisted ceiling, black white striped walls pops aqua blue adorning mirrors make place seem much larger actually is. Sentence Score: 53.7
+Sentence 6: kick proceedings soaked surroundings, took modern glamour, sipped chilled glass something sparkling, along lovely little canapes really got taste buds salivating. Sentence Score: 120.53333333333333
+Sentence 7: ate early bird set menu priced 3 courses £40 dinner, £54. Sentence Score: 88.83333333333333
+Sentence 8: chosen starter one restaurant’s signature dishes – atul‘s chicken tikka pie. Sentence Score: 223.0
+Sentence 9: perfectly crisp outside, juicy morsels meat inside spiced absolute perfection. Sentence Score: 146.83333333333334
+Sentence 10: pie come supplement set menu, it’s well worth extra treat get real sense expect atul’s cooking. Sentence Score: 0
+
+Summary for row 5:
+Sentence 1: ''chakra little venice: modern indian cooking london’s prettiest waterside location may may noticed, bit soft spot chakra kensington found shiny new site little venice – snapped opportunity visit. Sentence Score: 21.5
+Sentence 2: new space looking gorgeous inside location-wise, perfectly placed relaxing tranquil part little venice area, surrounded quaint cafes cherry blossom trees. Sentence Score: 59.5
+Sentence 3: sat table, perused menu ordered bottle red wine recommended team went treat. Sentence Score: 50.33333333333333
+Sentence 4: don’t seem serving cocktails site, familiar chakra brand, definitely think always well. Sentence Score: 855.9000000000001
+Sentence 5: glass wine hand, tucked every indian meal must always start – selection papadums homemade chutneys. Sentence Score: 236.625
+Sentence 6: yoghurts, chutneys papadums excellent left nothing empty pots behind. Sentence Score: 155.55
+Sentence 7: mango chutney particular great. Sentence Score: 104.0
+Sentence 8: another excellent choice lucknowi samosa chaat. Sentence Score: 74.7
+Sentence 9: two huge punjabi style samosas, sat mouth-watering bed spiced chickpeas, topped mint, tamarind, yoghurt sev. Sentence Score: 144.95833333333334
+Sentence 10: samosa chaat one favourite indian dishes really justice here, smothered lots sauce samosas perfect crunch. Sentence Score: 72.25
+
+Summary for row 6:
+Sentence 1: ''huŏ: home fresh, asian cooking chelsea, london located park walk chelsea, famous swinging 60s hedonistic restaurants bars even earlier 1718 raw silk company located planted mulberry trees neighboring chelsea park (random know), huŏ one street’s newest additions, hosting menu filled clean fresh asian food. Sentence Score: 21.0
+Sentence 2: bar, expect asian-inspired cocktails alongside reduced food menu available counter dining. Sentence Score: 55.333333333333336
+Sentence 3: don’t know you, love sit counter watch mixologists work. Sentence Score: 63.5
+Sentence 4: inside, it’s looking gorgeous. Sentence Score: 130.46666666666667
+Sentence 5: driftwood, perfectly placed lighting, endless timber – it’s perfect date night, warmer months (or you’re brave enough cold) take advantage plentiful pavement dining meal even many tipples. Sentence Score: 1058.3833333333334
+Sentence 6: lucky enough dine relatively warm evening, took advantage sunshine whilst doors flung open tucked refreshing glass champagne, whilst nibbling bowl finger-licking chili-covered edamame. Sentence Score: 463.0
+Sentence 7: over-steamed good amount spice – delicious start. Sentence Score: 90.5
+Sentence 8: order peppercorn salted prawns absolute heaven! Sentence Score: 48.66666666666667
+Sentence 9: generously sized bowl filled juicy, plump prawns, covered perfectly golden batter sprinkled fresh chili, spring onions crispy bits might nuts – addictive didn’t take enough notice gone. Sentence Score: 13.5
+Sentence 10: you’re sharing, recommend two bowls you’ll regret last bite. Sentence Score: 145.5119047619048
+
+Summary for row 7:
+Sentence 1: ''charlie’s brown’s hotel: luxury eating mayfair one favourite london chefs hands ever wanted stay brown’s hotel mayfair? Sentence Score: 198.83333333333334
+Sentence 2: me, have! Sentence Score: 61.0952380952381
+Sentence 3: living london around corner beautiful hotel, find hard push fork staycations london, it’s something really often. Sentence Score: 33.66666666666667
+Sentence 4: it’s convenient, forget something pop back home importantly – there’s absolutely rush anything. Sentence Score: 166.76190476190476
+Sentence 5: didn’t stay, visit charlie’s brown’s exceptional much experience. Sentence Score: 29.5
+Sentence 6: especially menus developed michelin-starred chef director brown’s, adam byatt matt starling (previously fera claridge’s) head chef. Sentence Score: 1251.0357142857144
+Sentence 7: adam one favourite london chefs best meals restaurant trinity clapham. Sentence Score: 39.61904761904761
+Sentence 8: go review, please appreciate beautiful here? Sentence Score: 0
+Sentence 9: case didn’t know, hotel part rocco forte collection forefront business polizzi family. Sentence Score: 120.4904761904762
+Sentence 10: i’m obsessed alex polizzi tv show hotel inspector/restaurant rescue big expectations certainly didn’t disappoint. Sentence Score: 82.38095238095238
+
+Summary for row 8:
+Sentence 1: ''afternoon tea fit royalty middlethorpe hall hotel york located two miles york’s historical city centre set within acres beautiful gardens parkland, middlethorpe hall hotel perfect place enjoy afternoon tea. Sentence Score: 26.5
+Sentence 2: actually staying hotel spent long morning lunch exploring york offer, coming back afternoon tea warmth property exactly wanted history exudes makes even charming location enjoy in. Sentence Score: 51.41666666666667
+Sentence 3: one thing you’ll quickly discover making short drive hotel york city centre, quiet peaceful is. Sentence Score: 90.82142857142857
+Sentence 4: calm, tranquility – it’s like stepping back time. Sentence Score: 18.166666666666668
+Sentence 5: concierge also hand greet arrive, whisking away table. Sentence Score: 84.16666666666667
+Sentence 6: traditional english afternoon tea ritual takes place one grand public rooms warmer days south terrace. Sentence Score: 83.41666666666667
+Sentence 7: found small room next main hall snuggled next fire place cold air swooped back doors – utter heaven lovely walk gardens before. Sentence Score: 596.9785714285714
+Sentence 8: price tea reasonable £29.50pp traditional afternoon tea £41.50pp champagne afternoon tea. Sentence Score: 192.25833333333333
+Sentence 9: took latter sipped chilled glass fireplace waited tea tier arrive. Sentence Score: 323.9916666666667
+Sentence 10: would expect grand surroundings, tea looks fit royalty expense spared presentation. Sentence Score: 107.36666666666667
+
+Summary for row 9:
+Sentence 1: ''master jamaican jerk definitive guide learn best way get true jerk experience, bold marinade smoky, flame-grilled cooking style caribbean dishes well-traveled, beloved, jamaican jerk, humble meal bone-in chicken pork parts doused blend spices hot peppers, cooked slowly smoldering pimento wood branches. Sentence Score: 50.464285714285715
+Sentence 2: peppered across island, roadside jerk stands entice passersby wafts fragrant smoke rising makeshift grills encased sheets tin siding. Sentence Score: 41.5
+Sentence 3: supple, juicy, crispy spots meat charred fire, jerk integral part jamaica's economy too, restaurants like perpetually busy scotchies relaxed pepper's jerk center serving tourists locals year-round. Sentence Score: 208.04166666666669
+Sentence 4: typically eaten hands alongside fried cornmeal "festivals" (dumplings), scorching-­hot scotch bonnet pepper sauce, cold beer. Sentence Score: 401.38095238095235
+Sentence 5: although jerk comes across leisurely beach food, actually dish resistance, born necessity circumstance. Sentence Score: 32.875
+Sentence 6: origins traced maroons 17th century, tribe enslaved africans fled mountains jamaica's eastern portland parish escape spanish-owned plantations. Sentence Score: 97.75
+Sentence 7: here, maroons barbecued whole wild hogs, burying meat earth smother smoke keep spanish british forces discovering them. Sentence Score: 80.75
+Sentence 8: "they live land find ways survive," explains suzanne rousseau, co-­author, sister michelle, provisions: roots caribbean cooking. Sentence Score: 1536.3785714285714
+Sentence 9: thanks popularity bottled jerk seasonings walkerswood grace brands, flavors jerk become one jamaica’s famous exports worldwide. Sentence Score: 220.1662180814355
+Sentence 10: suzanne believes roots dish lost. Sentence Score: 227.39637681159422
+
+Summary for row 10:
+Sentence 1: '' look kue lapis layer cakes asia kue/kueh/kuih lapis indonesian sweet snack popular singapore, malaysia, brunei, myanmar/burma, suriname. Sentence Score: 157.295928226363
+Sentence 2: it’s made using rice flour, tapioca flour, coconut milk, sugar, salt, food colouring. Sentence Score: 41.0
+Sentence 3: lapis portion name indonesian malay ‘layers’. Sentence Score: 76.82971014492755
+Sentence 4: is, course, snack many layers. Sentence Score: 99.72222222222221
+Sentence 5: word kue takes name chaozhou/teochew (潮州) chinese pronunciation character/word 粿, steamed rice cake. Sentence Score: 122.79761904761904
+Sentence 6: thought layer cakes asia became popular via introduction chimney/spit-roasted cakes, also made layers, popular amongst dutch colonizers region (dutch east indies). Sentence Score: 22.916666666666668
+Sentence 7: spoke mum, mentioned 粿 really used people area also parts northern china. Sentence Score: 86.19082125603865
+Sentence 8: that’s say regions don’t also steamed rice cakes, popular areas minnan/southern min/banlam/閩南語 dialects. Sentence Score: 25.25
+Sentence 9: group dialects includes areas fujian, eastern guangdong, hainan, southern zhejiang [1]. Sentence Score: 1079.5655624568667
+Sentence 10: emigrants areas also see use character used nomenclature, including taiwan places kue lapis found. Sentence Score: 136.76666666666665
+
+Summary for row 11:
+Sentence 1: ''katsu sauce. Sentence Score: 38.91666666666667
+Sentence 2: katsu? Sentence Score: 7.5
+Sentence 3: look word means presently uk came japan. Sentence Score: 15.5
+Sentence 4: katsu sauce katsu sauce. Sentence Score: 68.06666666666666
+Sentence 5: common thought seems concentrated within uk itself. Sentence Score: 155.65833333333336
+Sentence 6: australians americans make mistake, i’m sure initially occurred within shores. Sentence Score: 99.34166666666667
+Sentence 7: largely put bad marketing seems every time japanese curry sauce advertised, defaults term “katsu sauce”. Sentence Score: 70.125
+Sentence 8: quick look twitter hashtag #katsucurrypolice yields several posts disgruntled phenomenon. Sentence Score: 32.75
+Sentence 9: katsu? Sentence Score: 94.15833333333333
+Sentence 10: katsu (カツ) simply shortened version word katsuretsu (カツレツ), meaning cutlet. Sentence Score: 718.7833333333333
+
+Summary for row 12:
+Sentence 1: '' wazuzhi (formerly wasabi) dessert room amazing dessert room chinese desserts. Sentence Score: 11.402777777777779
+Sentence 2: probably passed loads times without realising frequent china town. Sentence Score: 5.277777777777778
+Sentence 3: located upstairs wazuzhi sushi place faulkner street. Sentence Score: 48.49999999999999
+Sentence 4: best thing place? Sentence Score: 31.208333333333336
+Sentence 5: opening hours! Sentence Score: 38.5
+Sentence 6: 2pm – 9:30pm (last orders 9pm) monday, wednesdays adnd fridays. Sentence Score: 50.0
+Sentence 7: saturdays sundays 12:30 – 9:30pm. Sentence Score: 122.77777777777777
+Sentence 8: wazuzhi dessert room interior interior quite bright cheerful pictures desserts along one bright pink wall. Sentence Score: 58.77777777777778
+Sentence 9: find assortment furniture bit odd largely stools tables, random sofa back. Sentence Score: 5.277777777777778
+Sentence 10: stools aren’t really comfortable sit atmosphere generally welcoming. Sentence Score: 36.61111111111111
+
+Summary for row 13:
+Sentence 1: ''red koyla (“hot charcoal”) opened july 2022, run chef naseem qureshi, worked three decades oberoi hotel group india also sheraton hotels working chatora. Sentence Score: 408.33333333333326
+Sentence 2: red koyla main high street teddington, bar area back enter. Sentence Score: 80.08333333333334
+Sentence 3: menu mostly quite familiar north indian style, exotic dishes. Sentence Score: 81.0
+Sentence 4: three beers offer: cobra, kingfisher exotically named flying buffalo, punjabi beer made himalayan water. Sentence Score: 48.916666666666664
+Sentence 5: meal began fried poppadoms trio chutneys, dried tomato chutney pick these. Sentence Score: 11.666666666666668
+Sentence 6: spinach onion bhaji flavoured ginger coriander quite pleasant, fried gram flour casing little greasier ideal (12/20). Sentence Score: 15.0
+Sentence 7: aloo channa chaat little better, potato cake centre supplemented chickpea masala, sev mint chutney. Sentence Score: 46.964285714285715
+Sentence 8: could little flavour contrast, perhaps tamarind chutney, certainly enjoyable dish (13/20). Sentence Score: 31.464285714285715
+Sentence 9: methi murgh spinach fenugreek nice enough, chicken quite tender; would liked see way fresh fenugreek flavour slightly punchier spice blend, fine (12/20). Sentence Score: 188.41666666666666
+Sentence 10: aloo jeera stir-fried potatoes flavoured cumin could cooked little less taste (12/20). Sentence Score: 77.5
+
+Summary for row 14:
+Sentence 1: '' kanesaka branch basement ginza, since 2000; also younger sister branch palace hotel, one singapore. Sentence Score: 56.8
+Sentence 2: shop trained fine chefs gone run successful places, including sushi saito. Sentence Score: 637.8119047619047
+Sentence 3: chef shinji kanesaka originally started training kyubei five years tender age 23 became youngest employee stand behind counter serve sushi customers. Sentence Score: 169.83333333333334
+Sentence 4: five years later opened first restaurant. Sentence Score: 59.33333333333333
+Sentence 5: tableware famous artist called kitaoji rosanjin, rare extremely expensive. Sentence Score: 61.0
+Sentence 6: apparently spends much savings tableware. Sentence Score: 66.5
+Sentence 7: seats arrayed l shape around cypress wood counter, chef preparing everything front diners, though little kitchen tucked away behind scenes prepare grilled items. Sentence Score: 58.583333333333336
+Sentence 8: actually two linked counters, half dozen guests served section. Sentence Score: 118.16666666666667
+Sentence 9: meal began series appetisers. Sentence Score: 79.0
+Sentence 10: little sweet shrimps sea urchin pleasing way begin evening, followed hairy crab hokkaido, good natural sweetness. Sentence Score: 58.6
+
+Summary for row 15:
+Sentence 1: '' restaurant part group, singapore branch located 35th floor mandarin orchard hotel. Sentence Score: 176.16666666666669
+Sentence 2: thirteen branches (at time writing) japan, spread across fukuoka, matsuyama, nagoya, takamatsu, tokyo yokohama, restaurant empire began. Sentence Score: 86.5
+Sentence 3: group founded 1958 chen kenmin, chinese immigrant. Sentence Score: 933.6833333333334
+Sentence 4: although trained imperial chinese cuisine, restaurant served sichuan food, popularised style cooking japan via appearances various tv shows. Sentence Score: 86.66666666666667
+Sentence 5: son chen kenuchi appeared regularly famous tv series iron chef. Sentence Score: 86.45833333333333
+Sentence 6: singapore branch, opened 2014, third generation family charge kitchen, chen kentaro. Sentence Score: 362.29166666666663
+Sentence 7: restaurant given two michelin stars inaugural michelin guide singapore 2016. contrast, group’s restaurants japan, fukuoka branch tokyo branch akasaka, remain michelin free zone. Sentence Score: 59.666666666666664
+Sentence 8: cavernous dining room high ceiling impressive array chandeliers. Sentence Score: 46.5
+Sentence 9: tables large well spaced. Sentence Score: 27.5
+Sentence 10: menu vast, know sichuan restaurant would hard pressed tell menu. Sentence Score: 226.58333333333337
+
+Summary for row 16:
+Sentence 1: ''house ming chinese restaurant owned taj group hotels. Sentence Score: 48.33333333333333
+Sentence 2: head chef dickson leung, worked previously michelin-starred yi long court hong kong shangri la hotel dubai. Sentence Score: 16.5
+Sentence 3: pastry chefs mayank rajput dharma raj shrestha, incidentally, competed 2023 bake professionals tv series. Sentence Score: 115.16666666666667
+Sentence 4: house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. Sentence Score: 1075.6666666666667
+Sentence 5: tables quite well spaced, though large might given dishes shared. Sentence Score: 108.13333333333334
+Sentence 6: background music mercifully quiet. Sentence Score: 55.46666666666667
+Sentence 7: set menu £65 well full la carte selection. Sentence Score: 33.83333333333333
+Sentence 8: wine list available online contained examples like picpoul cavede l’ormarine selection 2022 £48 bottle find high street £11, franz haas manna alto adige £81 compared retail price £30, laurent perrier la cuvee brut £105 bottle set back £48 shop. Sentence Score: 157.5
+Sentence 9: posher choices too, domaine ballot-millot criots meursault mysterious vintage £180 compared retail price £61, dom perignon 2012 £450 bottle current market value £209. Sentence Score: 99.33333333333333
+Sentence 10: use coravin system allows lot wines glass, including prestigious ones. Sentence Score: 54.333333333333336
+
+Summary for row 17:
+Sentence 1: ''stones fish chips opened 2015. primarily aimed takeaway couple tables eat indoors. Sentence Score: 159.63333333333335
+Sentence 2: late 2023 london establishment shortlisted national fish chip awards 2024. alcohol license here, bring beer wine without corkage charge (but would need bring wine glasses). Sentence Score: 72.33333333333333
+Sentence 3: haddock fried order fish carefully cooked, golden batter thick. Sentence Score: 28.0
+Sentence 4: even quite prestigious places chips let-down, crisp well made (easily 13/20). Sentence Score: 79.0
+Sentence 5: attention detail could seen sourcing pickled gherkin. Sentence Score: 847.5666666666667
+Sentence 6: ones used kuhne sweet sour germany, excellent. Sentence Score: 15.333333333333332
+Sentence 7: tartare sauce home made nicely piquant, though mushy peas nothing special. Sentence Score: 145.16666666666669
+Sentence 8: bill came £15 per person. Sentence Score: 96.83333333333333
+Sentence 9: stones cut normal level fish chip shops london, reason always struggled produce high quality fish chips, especially compared somewhere like whitby quayside indeed magpie. Sentence Score: 114.83333333333334
+Sentence 10: best fish chips recall made simon hopkinson bibendum, course much grander affair anyhow option longer exists. Sentence Score: 73.16666666666667
+
+Summary for row 18:
+Sentence 1: '' restaurant running since 1839. founded frenchman, emilio huguenin, named hardy café boulevard des italianos paris. Sentence Score: 18.0
+Sentence 2: owner even changed name emilio lhardy. Sentence Score: 13.5
+Sentence 3: son agustin lhardy became noted impressionist painter, many works hang restaurant. Sentence Score: 30.0
+Sentence 4: restaurant haunt spanish royalty, famous female spy mata hari arrested hotel eating lunch 1916. lhardy pedestrianised street central madrid coffee pastry shop ground level main restaurant upstairs. Sentence Score: 20.166666666666668
+Sentence 5: cavernous place multiple dining areas private rooms. Sentence Score: 60.0
+Sentence 6: chinese lamp one dining rooms gift victor hugo restaurant founder. Sentence Score: 587.0000000000001
+Sentence 7: place steeped history decor match. Sentence Score: 57.0
+Sentence 8: 25th payphone ever installed spain preserved one alcoves. Sentence Score: 154.11904761904762
+Sentence 9: current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. Sentence Score: 62.66666666666667
+Sentence 10: menu somewhat eclectic, dishes iberico ham “madrid stew” also wellington sirloin roast duck landes orange. Sentence Score: 68.16666666666667
+
+Summary for row 19:
+Sentence 1: ''cura (“curator”) ground floor four seasons ritz hotel lisbon, dates back 1959 features 40,000 square metres marble. Sentence Score: 50.0
+Sentence 2: cura’s head chef pedro pena bastos, appointed 2019, offers menus €145 (£124) five courses €185 (£158) ten courses. Sentence Score: 37.0
+Sentence 3: style food “modern portuguese”, may include dishes like seafood chawanmushi amberjack pepper tea. Sentence Score: 69.95833333333334
+Sentence 4: restaurant held one michelin star 2023 guide, star first awarded 2021. head chef pedro pena bastos previously worked restaurants including geranium ledbury various lisbon restaurants including ceia belcanto. Sentence Score: 13.0
+Sentence 5: dining room well-spaced tables view open kitchen one end room. Sentence Score: 201.78571428571428
+Sentence 6: local regular diner arranged meal took charge wines, don’t wine analysis review. Sentence Score: 126.33333333333334
+Sentence 7: initial snack yeast dough base topped mousse smoked eel, fennel chestnut. Sentence Score: 840.029761904762
+Sentence 8: topping quite silky texture distinctive flavour eel came well (15/20). Sentence Score: 100.83333333333333
+Sentence 9: followed savoy cabbage red mullet tiny teardrop peas northern spain (an expensive ingredient guipuzcoa basque country cost 90 euros kilo even more). Sentence Score: 36.75
+Sentence 10: side dashi stock made red mullet bones cabbage. Sentence Score: 78.08333333333333
+
+Summary for row 20:
+Sentence 1: ''surinamese food beginners: eat amsterdam amsterdam known surinamese cuisine… apparently. Sentence Score: 285.08333333333337
+Sentence 2: don’t know you, experience surinamese indonesian food often get lumped together, even think you’ve ordered former turns latter. Sentence Score: 53.916666666666664
+Sentence 3: it’s helped fact surinamese cuisine influenced infiltrated cuisines china, indonesia, africa, south america (and probably besides!) Sentence Score: 103.75
+Sentence 4: it’s hard know even mean talk surinamese food. Sentence Score: 28.5
+Sentence 5: plus, plenty higher-end sit-down indonesian restaurants, surinamese “restaurants” fact takeaways. Sentence Score: 75.33333333333333
+Sentence 6: 15 years living amsterdam, figured time knuckle find could find “genuine” surinamese food – best order found it. Sentence Score: 120.58333333333334
+Sentence 7: 15 years living amsterdam, figured time knuckle find could find “genuine” surinamese food – best order found it. Sentence Score: 28.5
+Sentence 8: end research, still can’t say i’ve found anywhere i’d take friends entire evening, i’m still far expert surinamese food even constitutes. Sentence Score: 911.3333333333334
+Sentence 9: again, that’s perhaps point. Sentence Score: 58.833333333333336
+Sentence 10: know anywhere i’ve missed on, let know! Sentence Score: 92.0
+
+Summary for row 21:
+Sentence 1: '' 1 march 2018 romance lamplight: vuurtoreneiland i’d wanting go vuurtoreneiland – tiny lighthouse island durgerdam, north amsterdam – ever since read curry strumpet’s blog post 2016. back then, vuurtoreneiland’s pop-up restaurant name open summer months, it’s since expanded offer winter version well. Sentence Score: 14.666666666666668
+Sentence 2: every normal person relationship christmas: gave dinner experience clearly wanted half present. Sentence Score: 391.16666666666663
+Sentence 3: wasn’t getting hint, ok? Sentence Score: 88.5
+Sentence 4: lit lanterns, candles log fires, sheepskin rugs thrown chairs extra cosiness, vuurtoreneiland certainly ticked romantic box picked boat veemkade opposite lloyd hotel. Sentence Score: 88.16666666666667
+Sentence 5: reservations book must’ve full bursting chilly night february we’d booked go, seating arrangements verging past gezelligheid personal-space invasion boat. Sentence Score: 85.0
+Sentence 6: didn’t matter – glass organic pear cider, bread dips curried cauliflower piccalilli, plenty wine. Sentence Score: 94.33333333333334
+Sentence 7: luckily quite small people. Sentence Score: 197.66666666666666
+Sentence 8: hour ij, navigating around islands past locks sluice gates, arrived destination pitch dark. Sentence Score: 66.16666666666666
+Sentence 9: one occasions i’ve able see stars amsterdam. Sentence Score: 1176.5
+Sentence 10: given hurricane lanterns light way made brisk circuit round island restaurant itself. Sentence Score: 13.0
+
+Summary for row 22:
+Sentence 1: ''12/10 izakaya, manila philippines posted worldsbestfoodblog may 22, 2021 reminiscing travels past year(s), thinking fun places visited. Sentence Score: 109.36111111111111
+Sentence 2: understanding one lucky ones world. Sentence Score: 77.11111111111111
+Sentence 3: looking outside now, grey weather +1 year celebration lock downs closed restaurants… boy counting days! Sentence Score: 61.861111111111114
+Sentence 4: also, name restaurant… score, know upfront…hahaha last year, february 2020 still world exploration tour, visiting australia nz, also one favorite countries world: philippines capital manila.. (see earlier posts lovely places). Sentence Score: 46.83333333333333
+Sentence 5: strolling guijo street makati, looking place, easy. Sentence Score: 55.50595238095238
+Sentence 6: hardest searches biggest reward? Sentence Score: 55.50595238095238
+Sentence 7: something like overall, service bit poor honest… cold windy seat well… vibe amazing. Sentence Score: 94.02777777777777
+Sentence 8: young rich locals trooping together, typical one poorest cities asia… average monthly salary spend 1 dinner! Sentence Score: 10.5
+Sentence 9: nr.1 frustration: tasting menu available food critic ! Sentence Score: 22.5
+Sentence 10: ! Sentence Score: 546.2063492063492
+
+Summary for row 23:
+Sentence 1: ''le grottelle, capri, italy posted worldsbestfoodblog august 7, 2020 hey hey, guess who’s back…??!! Sentence Score: 236.66666666666666
+Sentence 2: almost 6 months corona pause, time reflection rethinking go blog, came conclusion could miss guys many requests quiet, still hundreds restaurants visited corona sleeve? Sentence Score: 77.0
+Sentence 3: think needed short break focus day-job well… secretly managed go quick 6 day trip amalfi coast last month, found places share online! Sentence Score: 12.5
+Sentence 4: went place might best terrace view life! Sentence Score: 199.42857142857142
+Sentence 5: stunner, place. Sentence Score: 94.0
+Sentence 6: best italian food? Sentence Score: 85.1309523809524
+Sentence 7: nope, tourist trap? Sentence Score: 17.0
+Sentence 8: nope! Sentence Score: 94.66666666666667
+Sentence 9: genuine good food, lovely, always holidays, food taste better location. Sentence Score: 31.166666666666668
+Sentence 10: here, 45 minute walk uphill, know found hidden gem lovely mountains capri. Sentence Score: 116.83333333333334
+
+Summary for row 24:
+Sentence 1: ''liburnia, pristina kosovo posted worldsbestfoodblog january 5, 2020 ever kosovo?! Sentence Score: 964.3928571428571
+Sentence 2: not? Sentence Score: 104.33333333333333
+Sentence 3: think beautiful, countries area. Sentence Score: 28.666666666666664
+Sentence 4: much modern imagine, way better developed western european countries. Sentence Score: 20.666666666666664
+Sentence 5: nice traditional food, still honest pricing. Sentence Score: 102.0
+Sentence 6: eat drink like king here. Sentence Score: 23.0
+Sentence 7: good friends pristina pointed restaurant higher level real traditional food; type restaurant much menu still want try all… first need find atmosphere simply amazing, comes menu…. Sentence Score: 16.0
+Sentence 8: hard, impossible, said bring bit everything…. Sentence Score: 24.166666666666668
+Sentence 9: waiter stopt time. Sentence Score: 38.5
+Sentence 10: honestly wanted 7 8 dishes taste bread types, possible, much food waist. Sentence Score: 46.00000000000001
+
+Summary for row 25:
+Sentence 1: ''la yeon ("celebration") open since 2013, located top shilla hotel 23rd floor. Sentence Score: 0
+Sentence 2: might hope, fine view city dining room looking pretty namsam park. Sentence Score: 403.3333333333333
+Sentence 3: chef sung il kim prepares hansik (korean) cuisine style reminiscent japanese kaiseki menu, number different styles dishes culminating rice final savoury course. Sentence Score: 62.833333333333336
+Sentence 4: room large, generously spaced tables crisp white tablecloths. Sentence Score: 172.16666666666666
+Sentence 5: choice two tasting menus, one krw 160,000 (£112) longer one krw 250,000 (£175). Sentence Score: 69.58333333333334
+Sentence 6: flexible able substitute dishes these. Sentence Score: 43.5
+Sentence 7: lengthy wine list plenty depth classic regions france, also good selection new world wines too, albeit heavy markups. Sentence Score: 4.25
+Sentence 8: example labels christian moreau chablis 2015 krw 100,000 bottle find high street krw 22,140, clos du val chardonnay 2013 krw 170,000 compared retail price krw 43,411, trimbach cuvée frederich emile 2006 outrageous krw 320,000 wine set back krw 43,411 shop. Sentence Score: 18.666666666666664
+Sentence 9: also prestige bottles like chateau palmer 2006 krw 1,100,000 bottle whose current market value krw 265,676 mouton rothschild 1982 krw 7,000,000 compared retail price krw 1,687,724. seen even high-end bottles marked four times retail price. Sentence Score: 5.0
+Sentence 10: meal began seaweed crackers dried dates. Sentence Score: 1.0
+
+Summary for row 26:
+Sentence 1: ''palais coburg luxury hotel grand building vienna dating back 1864. main restaurant conservatory grounds, nestling impressive pillars hotel.the dining room l-shaped, stone floor glass walls ceiling. Sentence Score: 48.333333333333336
+Sentence 2: five course menu evening eur 65, eur 98 wine pairing. Sentence Score: 79.16666666666667
+Sentence 3: take la carte route starters eur 7-14, mains eur 14-25, desserts eur 4 mini-dessert taken, indeed choice cheese. Sentence Score: 504.50000000000006
+Sentence 4: wine list immense, 145 pages close-typed choices, representing cellar 5,000 separate bins 65,000 bottles.examples jermann vintage tunina 2005 eur 92 compared retail price eur 30, trimbach pinot gris 2004 eur 44 wine buy around eur 15 shops, higher end list opus one 1985 eur 420 compared shop price eur 200, antinori solaia 1986 eur 245 wine buy around eur 153. finer wines appear literally dozens separate vintages. Sentence Score: 49.0
+Sentence 5: bread, made premises, served warm consisted slices white, brown dark rye (16/20). Sentence Score: 0
+Sentence 6: began salad veal celery, worked well, crunchy distinctive taste celery nice earthy counterpoint veal, good salad leaves celery-flavoured dressing (16/20). Sentence Score: 10.0
+Sentence 7: beef tartare served tofu cep mushrooms garnish carrot.this quite light dish, despite presence beef, pleasant (15/20). Sentence Score: 47.0
+Sentence 8: impressd veloute duck, fluffed strong duck flavour, carefully seasoned served pair crisp duck samosas side; key well flavour came (17/20). Sentence Score: 45.9
+Sentence 9: cod carefully cooked, served slightly spicy ravioli chorizo potato cream green bell peppers. Sentence Score: 17.5
+Sentence 10: peppers welcome lift slightly bland cod; bell pepper flavour came strongly, seasoning good (15/20). Sentence Score: 218.23333333333335
+
+Summary for row 27:
+Sentence 1: alfonso la cava opened st james restaurant bushey village 1997 since 2019, nephew giammarco angelilli taken kitchens. Sentence Score: 7.333333333333334
+Sentence 2: tasting menu comprised six courses priced £45 thought steal (plus there’s slightly toned-down version £35) london quality – you’d paying double more. Sentence Score: 9.0
+Sentence 3: think favourite dish (well one many) pan-fried scallops, served red thai curry sauce, samphire cashew nut salad. Sentence Score: 85.56666666666666
+Sentence 4: indulge culinary masterpiece slow-cooked grass-fed ox beef cheek st james. Sentence Score: 489.5333333333333
+Sentence 5: let’s talk exquisite pan-fried cod. Sentence Score: 48.16666666666667
+Sentence 6: know every dish sounds like favorite, got tasting menu, portions increased – somehow managed finish (but one last bite!) Sentence Score: 82.25
+Sentence 7: rump lamb. Sentence Score: 186.78571428571428
+Sentence 8: finish, indulged decadent chocolate cremeux, velvety rich chocolate custard, accompanied luscious peanut butter hazelnut mousse. Sentence Score: 44.0
+Sentence 9: giammarco’s restaurant experience certainly paid cooking techniques flavor combinations really beautiful. Sentence Score: 71.4198717948718
+Sentence 10: st james restaurant bushey true love food, using finest ingredients available. Sentence Score: 18.5
+Sentence 11: commitment authenticity, exceptional flavors, impeccable service (thanks attentive tommaso sassanelli served us), charming ambiance, stands destination diners indulge memorable delightful culinary journey. Sentence Score: 116.31666666666666
+
+Summary for row 28:
+Sentence 1: 1. indian cuisine well-renowned vibrant flavors varied dishes, one beloved street food stands out: chaat. Sentence Score: 116.31666666666666
+Sentence 2: 2. quintessential part indian culinary culture, chaat offers ideal balance sweet, spicy, tangy, savory tastes appeals locals tourists alike. Sentence Score: 356.71794871794873
+Sentence 3: 3. chaat stalls found across delhi mumbai bazaars offering delectable treats transport visitors right back india’s bustling streets. Sentence Score: 299.44807692307694
+Sentence 4: 4. present 12 incredible indian chaat recipes transport taste buds back bustling streets every indian city. Sentence Score: 37.333333333333336
+Sentence 5: 5. sev puri delicious variation puri-based chaat, flat puris filled mashed potatoes, chutneys sev. Sentence Score: 1260.9382783882784
+Sentence 6: 6. pani puri classic indian street food snack consisting crunchy puris filled spicy-tangy tamarind water, mashed potatoes, chickpeas, various spices. Sentence Score: 94.83333333333333
+Sentence 7: 7. papdi chaat irresistibly delicious combination crisp papdis, boiled potatoes, chickpeas, yogurt, chutneys chaat masala. Sentence Score: 64.23809523809524
+Sentence 8: 8. bhel puri delicious street snack featuring puffed rice topped chopped vegetables, crunchy chickpea flour noodles (known sev), delicious chutneys. Sentence Score: 113.02380952380953
+Sentence 9: 9. aloo chaat satisfyingly easy dish made boiled potatoes tossed spices, tamarind chutney, mint-coriander chutney irresistibly flavorful snack. Sentence Score: 659.9107142857142
+Sentence 10: 10. pav bhaji classic mumbai street food consisting spicy tangy vegetable curry served buttered pav bread rolls, garnished chopped onions, lemon juice, coriander leaves. Sentence Score: 76.2
+
+Summary for row 29:
+Sentence 1: 1. crossing barnes absolutely fabulous. Sentence Score: 138.93333333333334
+Sentence 2: 2. independently owned, crossing true neighborhood pub gorgeous interiors, sun-drenched garden terrace, superb staff. Sentence Score: 106.03333333333333
+Sentence 3: 3. led head chef riccardo rizzo, menu definitely nod italy, good old classics warm cockles whilst utilizing best seasonal ingredients. Sentence Score: 125.03333333333333
+Sentence 4: 4. really couldn’t pick one favorite, must order cauliflower croquettes like eating fluffy, warm, delicious clouds goodness cauliflower cheese style filling. Sentence Score: 121.36666666666667
+Sentence 5: 5. charcuterie board good, even toasted sourdough joy. Sentence Score: 91.66666666666667
+Sentence 6: 6. you’re extra peckish, order another pint burrata it’s finest i’ve tried london. Sentence Score: 1591.2392857142856
+Sentence 7: 7. doubt packed million calories, rigatoni cacio e pepe stuff dreams. Sentence Score: 155.33333333333334
+Sentence 8: 8. mains, ordered grass-fed flat iron steak. Sentence Score: 21.166666666666668
+Sentence 9: 9. big surprise pearl barley. Sentence Score: 69.0
+Sentence 10: 10. previously lived barnes, i’ve always loved coming back think i’ve found yet another reason leave long. Sentence Score: 64.66666666666667
+
+Summary for row 30:
+Sentence 1: 1. kanishka aims offer modern, pan-indian cuisine showcases regional variety indian food, coming one uk’s celebrated chefs, atul kochhar. Sentence Score: 15.666666666666666
+Sentence 2: 2. arrive street, you’re greeted large, beautiful antique-looking wooden doors, step inside you’re transported uber-modern setting like something latest design book. Sentence Score: 86.0
+Sentence 3: 3. kick proceedings soaked surroundings, took modern glamour, sipped chilled glass something sparkling, along lovely little canapes really got taste buds salivating. Sentence Score: 4.0
+Sentence 4: 4. chosen starter one restaurant’s signature dishes – atul‘s chicken tikka pie, perfectly crisp outside, juicy morsels meat inside spiced absolute perfection. Sentence Score: 73.5
+Sentence 5: 5. mains, highly recommend order pan-fried salmon, beautifully cooked served rich, thick, glossy mappas curry originates kerala. Sentence Score: 101.33333333333333
+Sentence 6: 6. sides excellent fact, could meal own. Sentence Score: 72.83333333333334
+Sentence 7: 7. fluffy steamed rice, heavenly saag makai paneer, aubergine capsicum curry, garlic naan – you’ll need latter mop with. Sentence Score: 72.0
+Sentence 8: 8. finish (but barely room left) – crème brulée laced ginger & mango, topped thin shortbread stick, touch biscuit crumble drops berry gel. Sentence Score: 735.5000000000001
+Sentence 9: 9. really enjoyed meal kanishka it’s great see atul team continuing light london dining scene. Sentence Score: 86.375
+Sentence 10: 10. kanishka great addition add visit list love indian food, personally, can’t wait see menus progress change seasons. Sentence Score: 118.08333333333334
+
+Summary for row 31:
+Sentence 1: 1. found shiny new site little venice – snapped opportunity visit. Sentence Score: 25.375
+Sentence 2: 2. new space looking gorgeous inside location-wise, perfectly placed relaxing tranquil part little venice area, surrounded quaint cafes cherry blossom trees. Sentence Score: 222.75
+Sentence 3: 3. glass wine hand, tucked every indian meal must always start – selection papadums homemade chutneys. Sentence Score: 96.08333333333333
+Sentence 4: 4. yoghurts, chutneys papadums excellent left nothing empty pots behind. Sentence Score: 170.99999999999997
+Sentence 5: 5. samosa chaat one favourite indian dishes really justice here, smothered lots sauce samosas perfect crunch. Sentence Score: 83.20833333333334
+Sentence 6: 6. dish visit chakra without chilli chicken, succulent morsels lightly battered shredded chicken, sauteed pepper, fresh chilli spring onions. Sentence Score: 129.58333333333334
+Sentence 7: 7. pick single dish absolutely love ordering dining indian restaurant, would paneer tikka. Sentence Score: 137.58333333333334
+Sentence 8: 8. paneer tikka perfectly cooked meaning ounce chewiness insight mouthful incredibly mouthwatering flavours smears dipping sauces tantalised taste buds. Sentence Score: 267.16666666666663
+Sentence 9: 9. star show colourful lamb biryani, dressed edible flowers pomegranate, filled noses notes saffron exotic spices. Sentence Score: 1337.2083333333335
+Sentence 10: 10. lovely afternoon chakra little venice highly recommend anyone looking authentic, modern indian food pretty area town. Sentence Score: 17.5
+
+Summary for row 32:
+Sentence 1: 1. huŏ one street’s newest additions, hosting menu filled clean fresh asian food. Sentence Score: 54.0
+Sentence 2: 2. inside, it’s looking gorgeous. Sentence Score: 139.5
+Sentence 3: driftwood, perfectly placed lighting, endless timber – it’s perfect date night. Sentence Score: 114.0
+Sentence 4: 3. lucky enough dine relatively warm evening, took advantage sunshine whilst doors flung open. Sentence Score: 29.5
+Sentence 5: 4. bowl finger-licking chili-covered edamame served delicious start. Sentence Score: 29.5
+Sentence 6: 5. peppercorn salted prawns must-order, generously sized covered perfectly golden batter fresh chili, spring onions, addictive crispy bits. Sentence Score: 53.0
+Sentence 7: 6. huŏ encompasses carefully selected dishes around china southeast asia, prepared scratch using traditional chinese, thai, malay, singaporean disciplines. Sentence Score: 22.0
+Sentence 8: 7. menu pan-fried teriyaki black cod bed asparagus, beautiful flavorful dish worth slightly lighter wallet. Sentence Score: 17.0
+Sentence 9: 8. room, order side thai aubergine, roasted perfection bursting thai flavors. Sentence Score: 72.5
+Sentence 10: 9. crispy lamb lettuce wraps generous portion juicy, crispy, full-flavored lamb lettuce leaves wrapping hoisin sauce. Sentence Score: 548.5
+Sentence 11: 10. finish, classic banana fritters, crunchy delightful, providing perfect end meal. Sentence Score: 87.83333333333333
+
+Summary for row 33:
+Sentence 1: 1. living london around corner beautiful hotel, find hard push fork staycations london, it’s something really often. Sentence Score: 87.83333333333333
+Sentence 2: 2. especially menus developed michelin-starred chef director brown’s, adam byatt matt starling (previously fera claridge’s) head chef. Sentence Score: 81.5
+Sentence 3: 3. cocktail menu comes courtesy legendary maestro cocktails, salvatore calabrese drinks anything go – team brown’s seem know way around bar well indeed. Sentence Score: 132.16666666666666
+Sentence 4: 4. one complimentary radishes smoked cod’s roe one menu tempura squid chilli garlic. Sentence Score: 68.83333333333333
+Sentence 5: 5. it’s rich, incredibly satisfying spending least week hips. Sentence Score: 64.0
+Sentence 6: 6. starters tucked brown’s beef tartare needless say, might one best you’ll eat year. Sentence Score: 15.0
+Sentence 7: 7. enjoyed steak lot, especially heavenly fries béarnaise sauce extra picky – i’d liked taste smokiness meat coals extra depth. Sentence Score: 61.166666666666664
+Sentence 8: 8. come here, order this. Sentence Score: 88.33333333333333
+Sentence 9: 9. little room left, name research (that’s excuse anyway), blood orange brown sugar custard tart must order – matter full you’re feeling. Sentence Score: 99.33333333333333
+Sentence 10: 10. think knew visiting charlie’s meal going good much confidence adam’s cooking, lovely experience skills here, different environment cooking style i’ve past. Sentence Score: 119.16666666666667
+
+Summary for row 34:
+Sentence 1: 1. middlethorpe hall hotel perfect place enjoy afternoon tea, set within acres beautiful gardens parkland. Sentence Score: 817.3333333333334
+Sentence 2: 2. calm, tranquility – it’s like stepping back time. Sentence Score: 96.66666666666667
+Sentence 3: 3. traditional english afternoon tea ritual takes place one grand public rooms warmer days south terrace. Sentence Score: 148.66666666666669
+Sentence 4: 4. price tea reasonable £29.50pp traditional afternoon tea £41.50pp champagne afternoon tea. Sentence Score: 145.75
+Sentence 5: 5. would expect grand surroundings, tea looks fit royalty expense spared presentation. Sentence Score: 70.0
+Sentence 6: 6. expect see generously packed spread? Sentence Score: 101.75
+Sentence 7: 7. selection finger sandwiches (on white brown bread), including north atlantic prawn lemon creme fraiche baby gem. Sentence Score: 98.5
+Sentence 8: 8. i’ve fair share scones years best. Sentence Score: 104.25
+Sentence 9: 9. cakes, there’s lot loved selection offer. Sentence Score: 305.0
+Sentence 10: 10. absolutely loved afternoon tea middlethorpe hall hotel highly recommend anyone looking something special even something delicious. Sentence Score: 78.0
+
+Summary for row 35:
+Sentence 1: 1. caribbean dishes well-traveled, beloved, jamaican jerk, humble meal bone-in chicken pork parts doused blend spices hot peppers, cooked slowly smoldering pimento wood branches. Sentence Score: 136.41666666666669
+Sentence 2: 2. although jerk comes across leisurely beach food, actually dish resistance, born necessity circumstance. Sentence Score: 1285.0000000000002
+Sentence 3: 3. origins traced maroons 17th century, tribe enslaved africans fled mountains jamaica's eastern portland parish escape spanish-owned plantations. Sentence Score: 54.5
+Sentence 4: 4. making marinade - common misconception jerk refers blend herbs spices meat marinated in, it’s low-and-slow smoking method name actually refers to. Sentence Score: 8.5
+Sentence 5: 5. nonetheless, marinade—a fragrant mixture jamaican scotch bonnet peppers, ginger, garlic, herbs, spices—is necessary component. Sentence Score: 33.5
+Sentence 6: 6. pronounced element jerk marinade (besides heat) typically allspice, round, firm berries indigenous pimento tree. Sentence Score: 86.0
+Sentence 7: 7. jerk’s burn comes scotch bonnet chiles, variety brightly colored hot pepper first farmed taíno people, original inhabitants jamaica caribbean. Sentence Score: 38.5
+Sentence 8: 8. jerk marinade recipes call bottled browning seasoning, combination dark food coloring concentrated vegetable flavors jamaican home cooks restaurant chefs also use intensify umami stewed oxtails stewed chicken. Sentence Score: 93.33333333333334
+Sentence 9: 9. grill grill? Sentence Score: 113.83333333333333
+Sentence 10: slowly smoking meat using hot coals pimento branches leaves best way get true jerk experience, also get satisfying flavor high-heat oven roast. Sentence Score: 92.5
+Sentence 11: 10. either case, serve chicken pork lime wedges extra marinade side. Sentence Score: 45.0
+
+Summary for row 36:
+Sentence 1: 1. kue/kueh/kuih lapis indonesian sweet snack popular singapore, malaysia, brunei, myanmar/burma, suriname. Sentence Score: 45.0
+Sentence 2: 2. lapis portion name indonesian malay ‘layers’. Sentence Score: 100.33333333333333
+Sentence 3: 3. thought layer cakes asia became popular via introduction chimney/spit-roasted cakes, also made layers, popular amongst dutch colonizers region (dutch east indies). Sentence Score: 31.5
+Sentence 4: 4. spoke mum, mentioned 粿 really used people area also parts northern china. Sentence Score: 697.5000000000001
+Sentence 5: 5. rest china tends utilise character 糕 instead. Sentence Score: 87.625
+Sentence 6: 6. wheat-based layer cakes kuih lapis legit, kek lapis betawi, spekkoek also prevalent. Sentence Score: 47.125
+Sentence 7: 7. also kek lapis sarawak comes sarawak region malaysia. Sentence Score: 104.625
+Sentence 8: 8. layers cake tend complex looking like kaleidoscope patterns. Sentence Score: 53.45833333333333
+Sentence 9: 9. additionally, kek lapis sarawak protected name cakes made specifically sarawak region. Sentence Score: 43.125
+Sentence 10: 10. article kindly inspired proofread wei chieh, also known @kit.eats.uk ig. Sentence Score: 37.45833333333333
+
+Summary for row 37:
+Sentence 1: 1. katsu sauce. Sentence Score: 128.45833333333334
+Sentence 2: katsu? Sentence Score: 9.5
+Sentence 3: look word means presently uk came japan. Sentence Score: 27.625
+Sentence 4: 2. katsu (カツ) simply shortened version word katsuretsu (カツレツ), meaning cutlet. Sentence Score: 34.125
+Sentence 5: 3. variation croquettes, dish started france early 1700s grew popularity throughout europe. Sentence Score: 573.125
+Sentence 6: 4. polish brought idea japan meiji era (1868-1912), restaurant name rengatei fashionable area ginza, tokyo, served it. Sentence Score: 119.0142857142857
+Sentence 7: 5. aside tonkatsu, popular katsu dishes include katsudon, katsu sando, katsu kare. Sentence Score: 23.0
+Sentence 8: 6. pork main meat katsu, items popular including beef, chicken, prawn, tofu vegetables! Sentence Score: 201.0142857142857
+Sentence 9: 7. word ‘katsu’ also sounds like japanese phrase “to win” (勝つ). Sentence Score: 32.51428571428571
+Sentence 10: 8. short, sauce japanese curry. Sentence Score: 73.71428571428572
+Sentence 11: katsu name sauce. Sentence Score: 25.5
+Sentence 12: 9. sauce course inspired indian curries, actually british introduced japan it, via colonization india time. Sentence Score: 10.5
+Sentence 13: 10. japanese curry commonly eaten rice, udon, inside bread, served katsu, sauce added top. Sentence Score: 27.0
+
+Summary for row 38:
+Sentence 1: 1. wazuzhi (formerly wasabi) dessert room amazing dessert room chinese desserts. Sentence Score: 25.5
+Sentence 2: 2. opening hours make brilliant option catching friends without drink alcohol noisy environment. Sentence Score: 10.5
+Sentence 3: 3. interior quite bright cheerful pictures desserts along one bright pink wall. Sentence Score: 27.0
+Sentence 4: 4. really like menu wazuzhi dessert room serve varied assortment chinese desserts grew more. Sentence Score: 24.5
+Sentence 5: 5. dessert authentic ones grew visited hong kong. Sentence Score: 226.5142857142857
+Sentence 6: 6. snow ice never disappoints! Sentence Score: 763.2714285714286
+Sentence 7: people don’t know snow ice – it’s cross sorbet, shaved ice ice cream. Sentence Score: 154.57142857142856
+Sentence 8: 7. vegan options too! Sentence Score: 74.57142857142857
+Sentence 9: check server time order, enquired given following list. Sentence Score: 92.0
+Sentence 10: 8. highly unusual western palate. Sentence Score: 128.5047619047619
+Sentence 11: 9. overall rating comments: 8.5/10 -1 interior. Sentence Score: 52.333333333333336
+Sentence 12: -0.5 lack westernised vegan options. Sentence Score: 58.338095238095235
+Sentence 13: 10. would visit again? Sentence Score: 128.66666666666666
+Sentence 14: yes!! Sentence Score: 414.50476190476195
+Sentence 15: thousand times, yes! Sentence Score: 5.0
+Sentence 16: wasabi dessert room one favourite places visit manchester! Sentence Score: 231.4047619047619
+
+Summary for row 39:
+Sentence 1: 1. red koyla opened july 2022, run chef naseem qureshi, worked three decades oberoi hotel group india also sheraton hotels working chatora. Sentence Score: 52.333333333333336
+Sentence 2: 2. menu mostly quite familiar north indian style, exotic dishes. Sentence Score: 58.338095238095235
+Sentence 3: 3. meal began fried poppadoms trio chutneys, dried tomato chutney pick these. Sentence Score: 128.66666666666666
+Sentence 4: 4. aloo channa chaat little better, potato cake centre supplemented chickpea masala, sev mint chutney. Sentence Score: 414.50476190476195
+Sentence 5: 5. methi murgh spinach fenugreek nice enough, chicken quite tender. Sentence Score: 5.0
+Sentence 6: 6. stir-fried okra onion, tomato cumin avoided sogginess often afflicts dish. Sentence Score: 231.4047619047619
+Sentence 7: 7. best dish margin black dhal, excellent texture pleasing, smoky taste. Sentence Score: 70.6
+Sentence 8: 8. gulab jamun better, sweet fried dumplings flavored nicely saffron syrup scented little cardamon. Sentence Score: 1410.495238095238
+Sentence 9: 9. service excellent bill came £37 person. Sentence Score: 60.5
+Sentence 10: 10. red koyla capable neighborhood restaurant genuinely classy dhal dish locker. Sentence Score: 1.0
+
+Summary for row 40:
+Sentence 1: 1. kanesaka branch basement ginza, since 2000; also younger sister branch palace hotel, one singapore. Sentence Score: 133.2
+Sentence 2: 2. chef shinji kanesaka originally started training kyubei five years tender age 23 became youngest employee stand behind counter serve sushi customers. Sentence Score: 98.7
+Sentence 3: 3. tableware famous artist called kitaoji rosanjin, rare extremely expensive. Sentence Score: 51.5
+Sentence 4: 4. seats arrayed l shape around cypress wood counter, chef preparing everything front diners. Sentence Score: 69.95
+Sentence 5: 5. meal began series appetisers, including little sweet shrimps sea urchin hairy crab hokkaido. Sentence Score: 62.86666666666667
+Sentence 6: 6. chef didn’t use gloves pick hot steel skewers, presume hands made asbestos. Sentence Score: 63.33333333333333
+Sentence 7: 7. best appetiser bonito sashimi topped spring onions little mustard, fish beautifully silky texture. Sentence Score: 83.91666666666667
+Sentence 8: 8. sushi sequence started excellent amberjack, followed akami lean tuna chutoro, semi-fatty tuna. Sentence Score: 51.2
+Sentence 9: 9. chef friendly, speaking excellent english chatting joking customers. Sentence Score: 676.1666666666666
+Sentence 10: 10. excellent overall experience, sushi high quality chef seeming genuine charming. Sentence Score: 11.088888888888889
+
+Summary for row 41:
+Sentence 1: 1. restaurant part group, singapore branch located 35th floor mandarin orchard hotel. Sentence Score: 3.4444444444444446
+Sentence 2: 2. group founded 1958 chen kenmin, chinese immigrant, popularized sichuan food japan. Sentence Score: 47.99999999999999
+Sentence 3: 3. singapore branch, opened 2014, awarded two michelin stars 2016. Sentence Score: 33.77777777777778
+Sentence 4: 4. cavernous dining room high ceiling impressive array chandeliers. Sentence Score: 88.0
+Sentence 5: 5. menu vast, featuring peking duck, xiao long bao, variety cantonese dishes. Sentence Score: 45.16666666666667
+Sentence 6: 6. xiao long bao pleasant, reasonable texture served vinegar sauce (13/20). Sentence Score: 43.27777777777777
+Sentence 7: 7. better siew mai, filled shrimps, pork, mushroom, scallion, ginger, lightly steamed (14/20). Sentence Score: 42.388888888888886
+Sentence 8: 8. spicy prawns featured large prawns carefully stir-fried cashew nuts dried red peppers (15/20). Sentence Score: 4.444444444444445
+Sentence 9: 9. particularly enjoyed spicy dry noodle dish minced meat sprinkled top, flavored good kick sichuan peppercorns (15/20). Sentence Score: 15.2
+Sentence 10: 10. bill came s$105 (£56) per person plenty food jasmine tea drink, additional costs wine dessert. Sentence Score: 15.58888888888889
+
+Summary for row 42:
+Sentence 1: 1. house ming chinese restaurant owned taj group hotels. Sentence Score: 57.86666666666667
+Sentence 2: 2. head chef dickson leung, worked previously michelin-starred yi long court hong kong shangri la hotel dubai. Sentence Score: 51.08888888888889
+Sentence 3: 3. pastry chefs mayank rajput dharma raj shrestha, incidentally, competed 2023 bake professionals tv series. Sentence Score: 459.3333333333333
+Sentence 4: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. Sentence Score: 74.9
+Sentence 5: 5. set menu £65 well full la carte selection. Sentence Score: 145.0
+Sentence 6: 6. use coravin system allows lot wines glass, including prestigious ones. Sentence Score: 115.0
+Sentence 7: 7. started selection dim sum. Sentence Score: 131.7
+Sentence 8: 8. sea bass steamed served bone skin on, resting soy-based sauce chopped red chilli garnish beetroot. Sentence Score: 55.7
+Sentence 9: 9. singapore noodles unusually delicate thin, vermicelli wrapped around pieces chicken, shrimp onion flavored curry oil. Sentence Score: 17.0
+Sentence 10: 10. service good indeed, extremely attentive helpful. Sentence Score: 38.0
+
+Summary for row 43:
+Sentence 1: 1. stones fish chips opened 2015. Sentence Score: 8.0
+Sentence 2: 2. late 2023 london establishment shortlisted national fish chip awards 2024. Sentence Score: 32.0
+Sentence 3: 3. alcohol license here, bring beer wine without corkage charge (but would need bring wine glasses). Sentence Score: 17.0
+Sentence 4: 4. even quite prestigious places chips let-down, crisp well made (easily 13/20). Sentence Score: 25.5
+Sentence 5: 5. attention detail could seen sourcing pickled gherkin. Sentence Score: 31.0
+Sentence 6: 6. ones used kuhne sweet sour germany, excellent. Sentence Score: 10.5
+Sentence 7: 7. tartare sauce home made nicely piquant, though mushy peas nothing special. Sentence Score: 1.5
+Sentence 8: 8. bill came £15 per person. Sentence Score: 5.5
+Sentence 9: 9. stones cut normal level fish chip shops london, reason always struggled produce high quality fish chips, especially compared somewhere like whitby quayside indeed magpie. Sentence Score: 60.2
+Sentence 10: 10. somewhere calibre opens again, stones nicely. Sentence Score: 768.5
+
+Summary for row 44:
+Sentence 1: 1. restaurant running since 1839. Sentence Score: 192.0
+Sentence 2: 2. founded frenchman, emilio huguenin, named hardy café boulevard des italianos paris. Sentence Score: 52.0
+Sentence 3: 3. owner even changed name emilio lhardy. Sentence Score: 54.33333333333333
+Sentence 4: 4. lhardy pedestrianised street central madrid coffee pastry shop ground level main restaurant upstairs. Sentence Score: 73.0
+Sentence 5: 5. place steeped history decor match. Sentence Score: 48.0
+Sentence 6: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. Sentence Score: 62.16666666666667
+Sentence 7: 7. wine list joyfully uncommercial. Sentence Score: 45.83333333333333
+Sentence 8: 8. another canapé bowl raw carrots cumin mousse dip, harmless. Sentence Score: 104.83333333333333
+Sentence 9: 9. beef wellington (€34) better, nicely cooked beef fillet slightly undercooked pastry genuinely good reduction meat juices quite deep flavour (15/20). Sentence Score: 3.0
+Sentence 10: 10. lhardy restaurant considerable history menu appropriate background. Sentence Score: 91.83333333333333
+
+Summary for row 45:
+Sentence 1: 1. cura (“curator”) ground floor four seasons ritz hotel lisbon, dates back 1959 features 40,000 square metres marble. Sentence Score: 727.0000000000001
+Sentence 2: 2. cura’s head chef pedro pena bastos, appointed 2019, offers menus €145 (£124) five courses €185 (£158) ten courses. Sentence Score: 70.5
+Sentence 3: 3. restaurant held one michelin star 2023 guide, star first awarded 2021. Sentence Score: 395.9
+Sentence 4: 4. head chef pedro pena bastos previously worked restaurants including geranium ledbury various lisbon restaurants including ceia belcanto. Sentence Score: 46.0
+Sentence 5: 5. initial snack yeast dough base topped mousse smoked eel, fennel chestnut. Sentence Score: 105.9
+Sentence 6: 6. followed savoy cabbage red mullet tiny teardrop peas northern spain. Sentence Score: 98.0
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. Sentence Score: 61.2
+Sentence 8: 8. final savory dish beef tenderloin minhota, breed cattle north-east portugal. Sentence Score: 98.0
+Sentence 9: 9. dessert hinted back earlier bread course, roasted bread ice cream pineapple along toasted chocolate well kind molasses bread heavily reduced almost balsamic vinegar consistency. Sentence Score: 69.66666666666666
+Sentence 10: 10. overall cura enjoyable experience, carefully prepared local ingredients modern cooking style without venturing far beaten path. Sentence Score: 59.56666666666668
+
+Summary for row 46:
+Sentence 1: 1. amsterdam known surinamese cuisine… apparently. Sentence Score: 73.06666666666668
+Sentence 2: 2. surinamese cuisine influenced infiltrated cuisines china, indonesia, africa, south america (and probably besides!). Sentence Score: 1077.8
+Sentence 3: 3. Sentence Score: 81.0
+Sentence 4: 15 years living amsterdam, figured time knuckle find could find “genuine” surinamese food – best order found it. Sentence Score: 51.0
+Sentence 5: 4. surinamese “restaurants” fact takeaways. Sentence Score: 45.0
+Sentence 6: 5. de tokoman serves excellent surinamese sandwiches. Sentence Score: 65.0
+Sentence 7: 6. tjin’s toko de pijp might better known supermarket mexican southeast asian ingredients. Sentence Score: 33.5
+Sentence 8: 7. swieti sranang couple branches, jordaan. Sentence Score: 55.0
+Sentence 9: 8. swieti sranang introduced concept bakabana – slices plantain coated batter, deep-fried served satay sauce. Sentence Score: 26.0
+Sentence 10: 9. de hapjeshoek – diner-style eethuis that’s literally inside waterlooplein metro station – packed lunchtime you’ll need queue even don’t plan sit down. Sentence Score: 91.5
+Sentence 11: 10. waterkant deluged crowds every time sun comes out. Sentence Score: 128.0
+
+Summary for row 47:
+Sentence 1: 1. i’d wanting go vuurtoreneiland – tiny lighthouse island durgerdam, north amsterdam – ever since read curry strumpet’s blog post 2016. Sentence Score: 128.0
+Sentence 2: 2. every normal person relationship christmas: gave dinner experience clearly wanted half present. Sentence Score: 71.5
+Sentence 3: 3. lit lanterns, candles log fires, sheepskin rugs thrown chairs extra cosiness, vuurtoreneiland certainly ticked romantic box. Sentence Score: 647.5
+Sentence 4: 4. hour ij, navigating around islands past locks sluice gates, arrived destination pitch dark. Sentence Score: 61.0
+Sentence 5: 5. food-wise, get feeling vuurtoreneiland well aware environmental impact. Sentence Score: 125.5
+Sentence 6: 6. meal started three amuses: salsify chips puffed mustard seeds proper vinegary kick; beetroot crackers earthy fresh; parsnip cooked two ways creamy mayo dip. Sentence Score: 88.0
+Sentence 7: 7. next came keep describing carrot party: bright, patriotic root veg treated various different ways raw roasted, served salty, umami-rich seaweed powder. Sentence Score: 100.0
+Sentence 8: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. Sentence Score: 2.0
+Sentence 9: 9. meat dish take traditional dutch slavink. Sentence Score: 59.0
+Sentence 10: 10. memorable four five hours really stood different average night amsterdam. Sentence Score: 19.5
+
+Summary for row 48:
+Sentence 1: 1. reminiscing travels past year(s), thinking fun places visited. Sentence Score: 90.0
+Sentence 2: 2. understanding one lucky ones world. Sentence Score: 76.0
+Sentence 3: 3. last year, february 2020 still world exploration tour, visiting australia nz, also one favorite countries world: philippines capital manila. Sentence Score: 20.0
+Sentence 4: 4. overall, service bit poor honest… cold windy seat well… vibe amazing. Sentence Score: 641.0
+Sentence 5: 5. young rich locals trooping together, typical one poorest cities asia… average monthly salary spent 1 dinner! Sentence Score: 32.08333333333333
+Sentence 6: 6. nice mondain metropolitan type restaurant menu particular. Sentence Score: 98.75
+Sentence 7: 7. fun cooking, experimental fusion menu extraordinary ideas. Sentence Score: 41.0
+Sentence 8: 8. worst part me, pace. Sentence Score: 54.83333333333333
+Sentence 9: even asking slow down, 8 course dinner done 75 minutes… slow asia, fast me! Sentence Score: 50.0
+Sentence 10: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) Sentence Score: 38.0
+Sentence 11: rye…. Sentence Score: 58.5
+Sentence 12: something special! Sentence Score: 3.0
+Sentence 13: 10. end, paid lot, enjoyed it, back. Sentence Score: 187.33333333333334
+Sentence 14: cannot explain why…. Sentence Score: 22.5
+Sentence 15: either way, try yourself! Sentence Score: 586.0
+
+Summary for row 49:
+Sentence 1: 1. almost 6 months corona pause, time reflection rethinking go blog, came conclusion could miss guys. Sentence Score: 58.5
+Sentence 2: 2. many requests quiet, still hundreds restaurants visited corona sleeve? Sentence Score: 3.0
+Sentence 3: 3. went place might best terrace view life! Sentence Score: 187.33333333333334
+Sentence 4: 4. stunner, place. Sentence Score: 22.5
+Sentence 5: best italian food? Sentence Score: 586.0
+Sentence 6: nope, tourist trap? Sentence Score: 24.0
+Sentence 7: nope! Sentence Score: 60.0
+Sentence 8: 5. genuine good food, lovely, always holidays, food taste better location. Sentence Score: 37.666666666666664
+Sentence 9: 6. without reservation, corona, without tourists (made happy!) Sentence Score: 161.66666666666666
+Sentence 10: best place restaurant, lovely view around island. Sentence Score: 27.0
+Sentence 11: 7. lunch, days eating 4 time day (you foodie not, 6 days, taste all…). Sentence Score: 107.0
+Sentence 12: 8. go capri without caprese salad ! Sentence Score: 17.0
+Sentence 13: !! Sentence Score: 66.0
+Sentence 14: cannot that! Sentence Score: 226.5
+Sentence 15: 9. nutshell, amazing place, nice wine, super friendly service all: reasonable price one expensive islands world. Sentence Score: 52.666666666666664
+Sentence 16: 10. dessert amazing walk back 1 hour astonishing views! Sentence Score: 779.4999999999999
+Sentence 17: unbelievably pretty! Sentence Score: 45.5
+
+Summary for row 50:
+Sentence 1: 1. ever kosovo?! Sentence Score: 107.0
+Sentence 2: not? Sentence Score: 17.0
+Sentence 3: 2. think beautiful, countries area. Sentence Score: 66.0
+Sentence 4: 3. much modern imagine, way better developed western european countries. Sentence Score: 226.5
+Sentence 5: 4. nice traditional food, still honest pricing. Sentence Score: 52.666666666666664
+Sentence 6: 5. good friends pristina pointed restaurant higher level real traditional food; 6. atmosphere simply amazing, comes menu…. Sentence Score: 779.4999999999999
+Sentence 7: 7. honestly wanted 7 8 dishes taste bread types, possible, much food waist. Sentence Score: 45.5
+Sentence 8: 8. ended cold cheese soup, tasting like ayran! Sentence Score: 68.66666666666666
+Sentence 9: 9. lovely eliza, contact kosovo, entertained night. Sentence Score: 68.0
+Sentence 10: 10. end drinks, coffee, liquor food fun cost 46 euro…. Sentence Score: 307.3333333333333
+Sentence 11: dream. Sentence Score: 86.0
+
+Summary for row 51:
+Sentence 1: 1. la yeon ("celebration") open since 2013, located top shilla hotel 23rd floor. Sentence Score: 86.0
+Sentence 2: 2. chef sung il kim prepares hansik (korean) cuisine style reminiscent japanese kaiseki menu. Sentence Score: 101.0
+Sentence 3: 3. choice two tasting menus, one krw 160,000 (£112) longer one krw 250,000 (£175). Sentence Score: 58.166666666666664
+Sentence 4: 4. crackers actually quite delicate (14/20). Sentence Score: 49.0
+Sentence 5: 5. unusual pleasant, certainly flavour chestnuts came well (15/20). Sentence Score: 354.0
+Sentence 6: 6. pen shell (called tairagi japan) type mollusc, resembling cross scallop clam, tasting like slightly firm scallop. Sentence Score: 163.66666666666666
+Sentence 7: 7. acidity yuzu sauce bringing nice balance (16/20). Sentence Score: 1301.3333333333333
+Sentence 8: 8. terms delicacy would compare well one (say) hakkasan, nice enough (14/20). Sentence Score: 1.0
+Sentence 9: 9. tilefish top restaurant japan glorious thing, slight sweetness, delicate flavour resembling lobster. Sentence Score: 44.8
+Sentence 10: 10. pleasant enough meal set aside absurdly high expectations set utterly incomprehensible three star rating michelin. Sentence Score: 1.0
+
+Summary for row 52:
+Sentence 1: 1. palais coburg luxury hotel grand building vienna dating back 1864. Sentence Score: 19.0
+Sentence 2: 2. dining room l-shaped, stone floor glass walls ceiling. Sentence Score: 1.0
+Sentence 3: 3. five-course menu evening eur 65, eur 98 wine pairing. Sentence Score: 39.8
+Sentence 4: 4. wine list immense, 145 pages close-typed choices, representing cellar 5,000 separate bins 65,000 bottles. Sentence Score: 117.0
+Sentence 5: 5. bread, made premises, served warm consisted slices white, brown dark rye. Sentence Score: 24.0
+Sentence 6: 6. began salad veal celery, worked well. Sentence Score: 111.25
+Sentence 7: 7. beef tartare served tofu cep mushrooms garnish carrot. Sentence Score: 109.0
+Sentence 8: 8. impressed veloute duck, fluffed strong duck flavor. Sentence Score: 55.0
+Sentence 9: 9. cod carefully cooked, served slightly spicy ravioli chorizo potato cream green bell peppers. Sentence Score: 522.85
+Sentence 10: 10. main course pheasant, one piece braised pan-fried, served pumpkin gnocchi champagne cabbage, excellent flavor. Sentence Score: 83.66666666666667
+

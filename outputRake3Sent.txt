@@ -1,0 +1,650 @@
+Top 10 Sentences with the Highest Scores for Row 1:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 2:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 3:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 4:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 5:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 6:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 7:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 8:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 9:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 10:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 11:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 12:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 13:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 14:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 15:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 16:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 17:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 18:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 19:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 20:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 21:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 22:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 23:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 24:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 25:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
+Top 10 Sentences with the Highest Scores for Row 26:
+Abstract Summary:
+Sentence 1: merely pleasant, components reasonable accompaniment, kimchi overly pungent (14/20). - Score: 1731766800.136507
+Sentence 2: company! - Score: 865883399.0682535
+Sentence 3: dessert amazing walk back 1 hour astonishing views! - Score: 432941677.6174601
+Sentence 4: finished crazy dessert, without picture seems got misplaced… made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 216470832.05873004
+Sentence 5: final vegetable dish kohlrabi: parts fermented, parts roasted, roots leaves used full effect. - Score: 108235389.51746027
+Sentence 6: sounds odd, it’s moreish! - Score: 54117648.758730136
+Sentence 7: point meal, array breads appeared, made scratch kitchen, “ancient wheat” excellent texture. - Score: 27058812.379365068
+Sentence 8: didn’t order little meal dining companions seemed enjoy it. - Score: 13529401.939682534
+Sentence 9: cavernous place multiple dining areas private rooms. - Score: 6764700.469841267
+Sentence 10: also tried hot sour soup, better many, stock good pleasant blend sourness vinegar enough chilli kick (14/20). - Score: 3382350.2349206335
+
+ChatGPT Summary:
+Sentence 1: 2. dining room l-shaped, stone floor glass walls ceiling. - Score: 153722266.16666672
+Sentence 2: 4. nice traditional food, still honest pricing. - Score: 76861114.1666667
+Sentence 3: nope, tourist trap? - Score: 38430549.33333335
+Sentence 4: 9. made of: coconut sorbet, lemon, black sesame, corn, peccorino (!) - Score: 19215274.666666675
+Sentence 5: 8. perhaps least favourite dish, still good, fish – variety whiting called steenbolk served fermented celeriac purée could’ve pumpkin-celeriac mix. - Score: 9607637.333333338
+Sentence 6: 7. swieti sranang couple branches, jordaan. - Score: 4803818.666666669
+Sentence 7: 7. signature dish chef next, squid hazelnuts, caviar roasted seaweed butter sauce. - Score: 2401909.3333333344
+Sentence 8: 6. current president spain dined yesterday one private dining rooms, continuing tradition royalty celebrities eating here. - Score: 1200954.6666666672
+Sentence 9: 5. attention detail could seen sourcing pickled gherkin. - Score: 600477.3333333336
+Sentence 10: 4. house ming big place, seating 180 diners one time, split lots smaller sections wooden screens, feels quite intimate section. - Score: 300238.6666666668
+
