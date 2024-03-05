@@ -19,8 +19,6 @@ def preprocess_text(text):
     text = ' '.join(word for word in text.split() if not word.startswith('http'))
     # Convert text to lowercase
     text = text.lower()
-    # # Remove punctuation (non-regex approach)
-    # text = ''.join(char for char in text if char not in string.punctuation)
     # Remove stopwords
     stop_list = stopwords.words('english')
     # stop_list.extend(["-", "extra", "certainly", "also", "always"]) # Extend stopwords
@@ -38,17 +36,14 @@ keyword_score_abs = {}
 keyword_score_gpt = {}
 
 # create a list to store summary of each row in column
-summary = []
 summary_abs = []
 summary_gpt = []
 
 # create a list to store summary of the current row
-row_summary = []
 row_summary_abs = []
 row_summary_gpt = []
 
 # Create a list to store the scores of sentences
-sentence_scores = []
 sentence_scores_abs = []
 sentence_scores_gpt = []
 
@@ -76,20 +71,6 @@ for index, row in df.iterrows():
      # Store keyword-score pairs in dictionaries for the abstract and ChatGPT summary
     keyword_score_abs = {keyword: score for score, keyword in keywords_abs}
     keyword_score_gpt = {keyword: score for score, keyword in keywords_gpt}
-
-    # # main: stores keyword-score pair
-    # # checks if keyword exist, if it does, updates the dictionary with highest score
-    # for score, keyword in keywords_abs:
-    #     if keyword in keyword_score_abs:
-    #         keyword_score_abs[keyword] = max(keyword_score_abs[keyword], score)
-    #     else:
-    #         keyword_score_abs[keyword] = score
-
-    # for score, keyword in keywords_gpt:
-    #     if keyword in keyword_score_gpt:
-    #         keyword_score_gpt[keyword] = max(keyword_score_gpt[keyword], score)
-    #     else:
-    #         keyword_score_gpt[keyword] = score
 
         # Iterate through sentences in the abstract and calculate sentence scores
     for sentence in sent_tokenize(abstract):
